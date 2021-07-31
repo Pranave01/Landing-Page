@@ -1,0 +1,248 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+#header1 img{
+    width: 100%;
+    height: 650px;
+   
+}
+
+
+
+#header1{
+    margin-bottom: -4px;
+}
+.logo{
+    font-family: 'Fraunces', serif;
+    margin-right: 900px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+ul{
+    list-style: none;
+}
+
+nav{
+    background-color: #39b3f6;
+    height: 3rem;
+    
+    
+}
+
+nav  ul{
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    justify-content: flex-end;
+    padding-top: 12px;
+    margin-right: 20px;
+    text-decoration: none;
+    
+}
+
+nav a{
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Fraunces', serif;
+    
+    
+}
+ h1{
+   display: flex;
+   position: absolute;
+   color: aliceblue;
+   padding-left: 34rem;
+   padding-top: 200px;
+   font-size: 60px;
+   font-family: 'Roboto', sans-serif;
+   
+   
+ 
+}
+
+
+.brand1 {
+     display: flex;
+     margin-bottom: 0px;
+     
+}
+#h11{
+    text-align: center;
+    padding-top: 10rem;
+    font-family: 'Fraunces', serif;
+    font-size: 3rem;
+}
+#h111{
+    display: flex;
+    text-align: left;
+    margin: 5px;
+    padding: 30px 150px;
+    font-family: 'Fraunces', serif;
+    
+
+}
+.Graphic{
+    position: absolute;
+    font-size: 42px;
+    padding-top: 21rem;
+    text-align: right;
+    padding-left: 210px;
+}
+.cherry{
+    position: absolute;
+    text-align: center;
+    padding-top: 400px;
+    padding-left:100px ;
+}
+.Graphic1{
+    position: absolute;
+    font-size: 42px;
+    padding-top: 21rem;
+    text-align: right;
+    padding-left: 240px;
+}
+.Orange{
+    position:absolute;
+    text-align: center;
+    padding-top: 400px;
+    padding-left:180px;
+    
+}
+
+.brand2{
+    display: flex;
+    
+
+}
+#h12{
+    
+    text-align: center;
+    padding-top: 10rem;
+    font-family: 'Fraunces', serif;
+    font-size: 3rem;
+    padding-right: 30px;
+}
+#h121{
+    text-align: left;
+    margin: 5px;
+    padding: 30px 150px;
+    font-family: 'Fraunces', serif;
+    padding-right: 100px;
+}
+#section2{
+    display: flex;
+    
+}
+#box2{
+    display: block;
+}
+#box3 {
+    display: flex;
+    
+      
+}
+#box4{
+    display: flex;
+}
+
+/* intro */
+.gallary{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-top: 50px;
+    
+}
+.testi{
+    position:absolute;
+    font-size: 30px;
+    padding-left: 620px;
+    padding-top: 40px;
+    text-align: right;
+    font-family: 'Ubuntu', sans-serif;
+}
+.container{
+    display: grid;
+    padding-top: 100px;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-family: 'Ubuntu', sans-serif;
+    }
+
+
+.clientT {
+    
+    padding-left: 70px;
+    padding-top: 30px;
+}
+
+.clientT p{
+    padding-right: 10px;
+    
+}
+#Shiva{
+    padding-left: 120px;
+
+}
+.shiva1{
+    padding: 20px;
+    padding-left: 20px;
+    
+}
+.clientT span{
+    
+    padding-left: 150px;
+    font-size: large;
+    font-weight: 1000;
+}
+.clientT p{
+    padding-top: 20px;
+    padding-left: 120px ;
+}
+
+.footer{
+    background-color: #4dc274;
+}
+
+.sunny{
+    text-align: center;
+    
+    font-size: 40px;
+    padding-top: 80px;
+    background-color: #4dc274;
+    font-family: 'Staatliches', cursive;
+
+}
+
+
+
+.foot1{
+    display: flex;
+    font-size: 25px;
+    margin-top: 60px;
+    gap: 100px;
+    justify-content: center;
+    cursor: pointer;
+    background-color: #4dc274;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.socialpages0{
+    display: flex;
+    margin-top: 60px;
+    gap: 120px;
+    justify-content: center;
+    cursor: pointer;
+    
+}
+.pranave{
+    margin-top: 80px;
+    font-family: 'Ubuntu', sans-serif;
+}
